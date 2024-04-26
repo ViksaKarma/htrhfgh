@@ -260,11 +260,12 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(31, 342);
+            this.label2.Location = new System.Drawing.Point(43, 335);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(180, 13);
+            this.label2.Size = new System.Drawing.Size(160, 65);
             this.label2.TabIndex = 31;
-            this.label2.Text = "Лаврентьев Максим ИСП(11)-22-3";
+            this.label2.Text = "Карманова Вика ИСП 11(22)-2\r\n\r\n\r\n\r\n\r\n";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // button25
             // 

@@ -237,6 +237,11 @@ namespace Math_Calc
             }
         }
 
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void button18_Click(object sender, EventArgs e)
         {
             if (textBox1.Text == "" || Convert.ToSingle(textBox1.Text) == 0)
